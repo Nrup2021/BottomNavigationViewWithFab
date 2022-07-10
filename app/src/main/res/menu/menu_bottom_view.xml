@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/menuHome"
-        android:icon="@drawable/ic_baseline_home_24"
-        android:title="Home" />
+        android:id="@+id/food_menu_nav_graph"
+        android:icon="@drawable/ic_menu_menu"
+        android:title="@string/menu" />
     <item
-        android:id="@+id/menuSearch"
-        android:icon="@drawable/ic_baseline_search_24"
-        android:title="Search" />
+        android:id="@+id/offers_nav_graph"
+        android:icon="@drawable/ic_menu_offers"
+        android:title="@string/offers" />
 
     <item
         android:id="@+id/placeHolder"
         android:title="" />
 
     <item
-        android:id="@+id/menuProfile"
-        android:icon="@drawable/ic_baseline_person_24"
-        android:title="Person" />
+        android:id="@+id/profile_nav_graph"
+        android:icon="@drawable/ic_menu_profile"
+        android:title="@string/profile" />
     <item
-        android:id="@+id/menuSettings"
-        android:icon="@drawable/ic_baseline_settings_24"
-        android:title="Settings" />
+        android:id="@+id/more_nav_graph"
+        android:icon="@drawable/ic_menu_more"
+        android:title="@string/more" />
 </menu>

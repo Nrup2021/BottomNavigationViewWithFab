@@ -1,19 +1,19 @@
 package com.example.bottomnavigationviewproject
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.bottomnavigationviewproject.databinding.FragmentSearchBinding
+import androidx.fragment.app.Fragment
+import com.example.bottomnavigationviewproject.databinding.FragmentOffersDetailsBinding
 
-class SearchFragment : Fragment() {
-    private lateinit var binding: FragmentSearchBinding
+class OffersDetailsFragment : Fragment() {
+   private lateinit var binding: FragmentOffersDetailsBinding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        binding = FragmentSearchBinding.inflate(layoutInflater)
+        binding = FragmentOffersDetailsBinding.inflate(layoutInflater)
         return binding.root
     }
 

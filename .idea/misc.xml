@@ -3,9 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_home.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_home_24.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_menu.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_more.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_offers.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/drawable/ic_menu_profile.xml" value="0.187" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_home.xml" value="0.24583333333333332" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_home_details.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_menu_details.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_more.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_more_details.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_offers.xml" value="0.25" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_offers_details.xml" value="0.25" />
         <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_profile.xml" value="0.24583333333333332" />
+        <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_profile_details.xml" value="0.25" />
         <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_search.xml" value="0.24583333333333332" />
         <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/layout/fragment_settings.xml" value="0.24583333333333332" />
         <entry key="..\:/practice/BottomNavigationViewProject/app/src/main/res/menu/menu_bottom_view.xml" value="0.24583333333333332" />
